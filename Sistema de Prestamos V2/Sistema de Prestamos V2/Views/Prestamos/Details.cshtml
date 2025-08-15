@@ -1,10 +1,10 @@
 ﻿@model Sistema_de_Prestamos_V2.Models.Prestamos
 
 @{
-    ViewData["Title"] = "Detalles";
+    ViewData["Title"] = "Detalle";
 }
 
-<h1>Detalles</h1>
+<h1>Detalle</h1>
 
 <div>
     <h4>Prestamos</h4>
@@ -61,6 +61,6 @@
     </dl>
 </div>
 <div>
-    <a asp-action="Editar" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Editar</a> |
     <a asp-action="Index">Volver a la lista</a>
 </div>

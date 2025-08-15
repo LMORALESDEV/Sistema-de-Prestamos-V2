@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema de Prestamos V2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bca2549ddcdd2137eedafbcbf3548a80b875cae7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebf2337b664ca8c6a375a2187dbce6afc988d93e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema de Prestamos V2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema de Prestamos V2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
