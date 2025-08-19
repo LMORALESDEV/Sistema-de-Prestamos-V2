@@ -3,6 +3,66 @@
   "WorkspaceRootPath": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\pagos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\pagos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\pagos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\pagos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\pagos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\pagos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\pagos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\pagos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\prestamos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\prestamos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\prestamos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\prestamos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\prestamos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\prestamos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\prestamos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\prestamos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\prestamos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\prestamos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,22 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\datos\\prestamosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\datos\\prestamosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\prestamos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\prestamos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\prestamos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\prestamos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\prestamos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\prestamos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\views\\prestamos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|solutionrelative:sistema de prestamos v2\\views\\prestamos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{24528EFF-3778-4781-B4ED-B7D1BF2D1169}|Sistema de Prestamos V2\\Sistema de Prestamos V2.csproj|c:\\users\\dell ultrabook\\documents\\github\\sistema-de-prestamos-v2\\sistema de prestamos v2\\sistema de prestamos v2\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,6 +127,188 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T00:54:25.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Pagos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Pagos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Pagos\\Delete.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Pagos\\Delete.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T00:52:47.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Pagos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Pagos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Pagos\\Details.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Pagos\\Details.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T00:51:50.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Pagos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Pagos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Pagos\\Edit.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Pagos\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T00:49:14.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Pagos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Pagos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Pagos\\Index.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Pagos\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T00:47:31.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Prestamos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Edit.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Prestamos\\Edit.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T00:42:35.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T00:33:10.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T00:24:58.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T00:22:19.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Prestamos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Details.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Prestamos\\Details.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T00:50:44.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Prestamos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Delete.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Prestamos\\Delete.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T00:50:43.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Prestamos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Create.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Prestamos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T00:44:13.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T00:30:25.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T00:28:07.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Controllers\\ClientesController.cs",
@@ -95,7 +321,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Prestamos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Index.cshtml",
+              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Prestamos\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T00:44:57.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\appsettings.json",
               "RelativeDocumentMoniker": "Sistema de Prestamos V2\\appsettings.json",
@@ -107,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Program.cs",
               "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Program.cs",
@@ -119,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "20250810000705_MigracionPrestamos.cs",
               "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Migrations\\20250810000705_MigracionPrestamos.cs",
               "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Migrations\\20250810000705_MigracionPrestamos.cs",
@@ -131,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "Clientes.cs",
               "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Models\\Clientes.cs",
               "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Models\\Clientes.cs",
@@ -143,19 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Details.cshtml",
-              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Prestamos\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Details.cshtml",
-              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Prestamos\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T00:50:44.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "PrestamosDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Datos\\PrestamosDbContext.cs",
               "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Datos\\PrestamosDbContext.cs",
@@ -167,43 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Create.cshtml",
-              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Prestamos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Create.cshtml",
-              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Prestamos\\Create.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T00:44:13.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Prestamos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Index.cshtml",
-              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Prestamos\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T00:44:57.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Views\\Prestamos\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Views\\Prestamos\\Delete.cshtml",
-              "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Prestamos\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T00:50:43.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "PagosController.cs",
               "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Controllers\\PagosController.cs",
               "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Controllers\\PagosController.cs",
@@ -215,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "PrestamosController.cs",
               "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Controllers\\PrestamosController.cs",
               "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Controllers\\PrestamosController.cs",
@@ -227,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "Pagos.cs",
               "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Models\\Pagos.cs",
               "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Models\\Pagos.cs",
@@ -239,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "Prestamos.cs",
               "DocumentMoniker": "C:\\Users\\Dell UltraBook\\Documents\\GitHub\\Sistema-de-Prestamos-V2\\Sistema de Prestamos V2\\Sistema de Prestamos V2\\Models\\Prestamos.cs",
               "RelativeDocumentMoniker": "Sistema de Prestamos V2\\Models\\Prestamos.cs",

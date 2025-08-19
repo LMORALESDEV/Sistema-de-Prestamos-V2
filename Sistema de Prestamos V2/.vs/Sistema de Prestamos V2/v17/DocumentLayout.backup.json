@@ -103,8 +103,7 @@
               "RelativeToolTip": "Sistema de Prestamos V2\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-10T15:03:36.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T15:03:36.766Z"
             },
             {
               "$type": "Document",
@@ -116,8 +115,7 @@
               "RelativeToolTip": "Sistema de Prestamos V2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T15:03:24.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T15:03:24.283Z"
             },
             {
               "$type": "Document",
@@ -129,8 +127,7 @@
               "RelativeToolTip": "Sistema de Prestamos V2\\Migrations\\20250810000705_MigracionPrestamos.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T00:07:05.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T00:07:05.551Z"
             },
             {
               "$type": "Document",
@@ -142,8 +139,7 @@
               "RelativeToolTip": "Sistema de Prestamos V2\\Models\\Clientes.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAYwCgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T00:01:52.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T00:01:52.297Z"
             },
             {
               "$type": "Document",
@@ -155,8 +151,7 @@
               "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Prestamos\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T00:50:44.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T00:50:44.746Z"
             },
             {
               "$type": "Document",
@@ -168,8 +163,7 @@
               "RelativeToolTip": "Sistema de Prestamos V2\\Datos\\PrestamosDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T14:59:40.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T14:59:40.079Z"
             },
             {
               "$type": "Document",
@@ -181,8 +175,7 @@
               "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Prestamos\\Create.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAAADcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T00:44:13.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T00:44:13.997Z"
             },
             {
               "$type": "Document",
@@ -194,8 +187,7 @@
               "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Prestamos\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T00:44:57.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T00:44:57.348Z"
             },
             {
               "$type": "Document",
@@ -207,8 +199,7 @@
               "RelativeToolTip": "Sistema de Prestamos V2\\Views\\Prestamos\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T00:50:43.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T00:50:43.742Z"
             },
             {
               "$type": "Document",
@@ -220,8 +211,7 @@
               "RelativeToolTip": "Sistema de Prestamos V2\\Controllers\\PagosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T00:11:33.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T00:11:33.954Z"
             },
             {
               "$type": "Document",
@@ -233,8 +223,7 @@
               "RelativeToolTip": "Sistema de Prestamos V2\\Controllers\\PrestamosController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAqwF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T00:10:25.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T00:10:25.889Z"
             },
             {
               "$type": "Document",
@@ -246,8 +235,7 @@
               "RelativeToolTip": "Sistema de Prestamos V2\\Models\\Pagos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T00:03:40.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T00:03:40.162Z"
             },
             {
               "$type": "Document",
@@ -259,8 +247,7 @@
               "RelativeToolTip": "Sistema de Prestamos V2\\Models\\Prestamos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T00:02:47.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T00:02:47.299Z"
             }
           ]
         }
